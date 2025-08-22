@@ -1,4 +1,4 @@
-# BMI Calculator 💪
+# BMI Calculator 
 
 A modern, sleek, and user-friendly Body Mass Index (BMI) calculator built with Flutter. This application provides a seamless experience for users to track their health metrics with an intuitive and visually appealing interface.
 
